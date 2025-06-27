@@ -8,8 +8,9 @@
 -> 🌱 I’m currently learning **MERN Stack**  
 -> 💬 Ask me about **JavaScript, ReactJS**  
 -> 📫 How to reach me **zahoormuneeb714@gmail.com** <br>
--> 🤙 WhatsApp me <a href="https://wa.me/923168338994">+923168338994</a> <br>
--> 📞 Call me <a href="tel923437337509">+923437337509</a>
+-> 🤙 WhatsApp me: <a href="https://wa.me/923168338994">+92 316 8338994</a> <br>
+-> 📞 Call me: <a href="tel:923437337509" style="margin: 6px;">+92 343 7337509</a>
+
 
 ---
 
