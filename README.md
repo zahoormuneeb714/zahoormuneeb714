@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning **MERN Stack**  
 - 💬 Ask me about **JavaScript, ReactJS**  
 - 📫 How to reach me:  
-  - 📧 Email: **zahoormuneeb714@gmail.com**  
-  - 🤙 WhatsApp: [+92 316 8338994](https://wa.me/923168338994)  
-  - 📞 Call: [+92 343 7337509](tel:+923437337509)
+- 📧 Email: **zahoormuneeb714@gmail.com**  
+- 🤙 WhatsApp: [+92 316 8338994](https://wa.me/923168338994)  
+- 📞 Call: [+92 343 7337509](tel:+923437337509)
 
 
 ---
