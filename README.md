@@ -7,7 +7,9 @@
 
 -> 🌱 I’m currently learning **MERN Stack**  
 -> 💬 Ask me about **JavaScript, ReactJS**  
--> 📫 How to reach me **zahoormuneeb714@gmail.com**
+-> 📫 How to reach me **zahoormuneeb714@gmail.com** <br>
+-> 🤙 WhatsApp me <a href="https://wa.me/923168338994">+923168338994</a> <br>
+-> 📞 Call me <a href="tel923437337509">+923437337509</a>
 
 ---
 
@@ -19,6 +21,10 @@
   <a href="https://instagram.com/zahoormuneeb714" target="blank" style="margin: 6px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  <a href="https://wa.me/923168338994" target="blank" style="margin: 6px;">
+  <img align="center" src="https://img.icons8.com/fluency/48/whatsapp.png" alt="WhatsApp" height="30" width="30" />
+</a>
+
   <a href="https://linkedin.com/in/zahoormuneeb714" target="blank" style="margin: 6px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
