@@ -5,11 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=zahoormuneeb714&label=Profile%20views&color=0e75b6&style=flat" alt="zahoormuneeb714" />
 </p>
 
--> 🌱 I’m currently learning **MERN Stack**  
--> 💬 Ask me about **JavaScript, ReactJS**  
--> 📫 How to reach me **zahoormuneeb714@gmail.com** <br>
--> 🤙 WhatsApp me: <a href="https://wa.me/923168338994">+92 316 8338994</a> <br>
--> 📞 Call me: <a href="tel:923437337509" style="margin: 6px;">+92 343 7337509</a>
+- 🌱 I’m currently learning **MERN Stack**  
+- 💬 Ask me about **JavaScript, ReactJS**  
+- 📫 How to reach me:  
+  - 📧 Email: **zahoormuneeb714@gmail.com**  
+  - 🤙 WhatsApp: [+92 316 8338994](https://wa.me/923168338994)  
+  - 📞 Call: [+92 343 7337509](tel:+923437337509)
 
 
 ---
