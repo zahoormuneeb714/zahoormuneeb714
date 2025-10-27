@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muneeb Zahoor</h1>
-<h3 align="center">A Computer Science Student and Web Developer who loves building dynamic websites and learning to code.</h3>
+<h3 align="center">WordPress Developer & CS Undergraduate | Actively mastering the MERN Stack to build Next-Gen Web Applications.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zahoormuneeb714&label=Profile%20views&color=0e75b6&style=flat" alt="zahoormuneeb714" />
